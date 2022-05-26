@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+html{
+    background: #c0c0c0;
+} 
+
+header{
+    height: 250px;
+    width: 750px;
+    background: blue;
+}
+#informacion{
+    width: 500px;
+    height: 250px;
+    background: white;
+    float: left;      
+}
+#logo{
+    width: 245px;
+    height: 120px;
+    float: left;
+}
+#frase{
+    width: 250px;
+    height: 105px;
+    float: left;
+}
+#sabias_que{
+    width: 500px;
+    height: 300px;
+    background: red;
+    float: left;
+}
+article{
+    width: 750px;
+    height: 740px;
+    background: #F48A0C;
+    float: left;
+}
+body{
+    height: 1525px;
+    width: 750px;
+    background: rgb(0, 81, 255);
+    margin: auto;
+    margin-top: 15px;
+}
+
+
+
+
+
+  
